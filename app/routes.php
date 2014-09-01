@@ -14,3 +14,6 @@
 Route::get('/laravel', ['as'=>'home','uses'=>'HomeController@showWelcome']);
 
 Route::get('/', ['as'=>'home','uses'=>'HomeController@showWelcome']);
+
+
+Route::get('candidates/{slug}/{id}', ['as'=>'category','uses'=>'CandidatesController@category']);

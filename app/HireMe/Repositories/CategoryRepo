@@ -1,0 +1,10 @@
+<?php
+
+namespace HireMe\Repositories;
+
+class CategoryRepo{
+	
+	public function find($id){
+		return Category::find($id);
+	}
+}
