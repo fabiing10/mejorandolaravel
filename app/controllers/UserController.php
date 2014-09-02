@@ -3,8 +3,15 @@
 
 use HireMe\Entities\User;
 use HireMe\Managers\RegisterManager;
+use HireMe\Repositories\CandidateRepo;
 
 class UserController extends BaseController{
+
+    protected $candidateRepo;
+
+    public function __construct(CandidateRepo $candidateRepo){
+        $this->candidateRepo = $candidateRepo;
+    }
 
     public function signUp(){
         return View::make('users/sign-up');
@@ -12,22 +19,13 @@ class UserController extends BaseController{
 
     public function  register(){
 
+        $user = $this->candidateRepo->newCandidate();
+        $manager = new RegisterManager($user, Input::all());
 
-      $manager = new RegisterManager($user, Input::all())git
-
-
-        $validation = \Validator::make($data,$rules);
-
-        if($validation->passes()){
-
-            $user = new User($data);
-            $user->type = 'candidate';
-            $user->save();
-
+        if($manager->save()){
             return Redirect::route('home');
-
         }
 
-        return Redirect::back()->withInput()->withErrors($validation->messages());
+        return Redirect::back()->withInput()->withErrors($manager->getErrors());
     }
 }

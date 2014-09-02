@@ -23,40 +23,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="12" selection-start="731" selection-end="738" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="360">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserController.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="UserController.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="57" selection-start="291" selection-end="291" vertical-scroll-proportion="0.39198607" vertical-offset="0" max-vertical-offset="574">
+            <state line="21" column="50" selection-start="458" selection-end="470" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="540">
               <folding>
                 <element signature="e#8#33#0" expanded="true" />
+                <element signature="n#__construct#0;n#UserController#0;n#!!top" expanded="true" />
                 <element signature="n#signUp#0;n#UserController#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sign-up.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/users/sign-up.blade.php">
+      <file leaf-file-name="CandidateRepo.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/HireMe/Repositories/CandidateRepo.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="128" selection-start="1762" selection-end="1762" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="780">
+            <state line="5" column="24" selection-start="123" selection-end="123" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="495">
               <folding>
-                <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="tag#div#2;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="tag#p#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="true" />
+                <element signature="e#169#232#0" expanded="true" />
+                <element signature="e#237#508#0" expanded="true" />
+                <element signature="e#514#637#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -65,36 +52,22 @@
       <file leaf-file-name="BaseManager.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/HireMe/Managers/BaseManager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="40" column="25" selection-start="769" selection-end="769" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="795">
+            <state line="31" column="0" selection-start="599" selection-end="599" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="795">
               <folding>
                 <element signature="e#228#383#0" expanded="true" />
-                <element signature="e#431#680#0" expanded="true" />
-                <element signature="e#885#922#0" expanded="true" />
+                <element signature="e#686#879#0" expanded="true" />
+                <element signature="e#885#951#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RegisterManager.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="RegisterManager.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/HireMe/Managers/RegisterManager.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="2" selection-start="469" selection-end="469" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
+            <state line="16" column="21" selection-start="243" selection-end="243" vertical-scroll-proportion="0.41811848" vertical-offset="0" max-vertical-offset="574">
               <folding>
-                <element signature="e#174#464#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/HireMe/Entities/User.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="49" selection-start="673" selection-end="673" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="585">
-              <folding>
-                <element signature="e#34#64#0" expanded="true" />
-                <element signature="e#313#383#0" expanded="true" />
-                <element signature="e#415#498#0" expanded="true" />
-                <element signature="e#628#740#0" expanded="true" />
+                <element signature="e#6#95#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -128,15 +101,15 @@
         <option value="$PROJECT_DIR$/app/views/home.blade.php" />
         <option value="$PROJECT_DIR$/app/controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/app/controllers/CandidatesController.php" />
-        <option value="$PROJECT_DIR$/app/HireMe/Repositories/CandidateRepo.php" />
         <option value="$PROJECT_DIR$/app/HireMe/Repositories/BaseRepo.php" />
         <option value="$PROJECT_DIR$/app/views/users/sign-up.php" />
         <option value="$PROJECT_DIR$/app/routes.php" />
         <option value="$PROJECT_DIR$/app/HireMe/Entities/User.php" />
         <option value="$PROJECT_DIR$/app/views/users/sign-up.blade.php" />
-        <option value="$PROJECT_DIR$/app/HireMe/Managers/BaseManager.php" />
         <option value="$PROJECT_DIR$/app/HireMe/Managers/RegisterManager.php" />
         <option value="$PROJECT_DIR$/app/controllers/UserController.php" />
+        <option value="$PROJECT_DIR$/app/HireMe/Repositories/CandidateRepo.php" />
+        <option value="$PROJECT_DIR$/app/HireMe/Managers/BaseManager.php" />
       </list>
     </option>
   </component>
@@ -172,6 +145,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -200,145 +174,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="public" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="bootstrap" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="css" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="users" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="candidates" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lang" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="en" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -362,84 +198,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="Repositories" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="CategoryRepo.php" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HireMe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Repositories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HireMe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Repositories" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BaseRepo.php" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpFileNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="mejorandola" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HireMe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Managers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RegisterManager.php" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpFileNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -479,10 +237,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="HireMe" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Entities" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -506,7 +260,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -530,14 +283,6 @@
       <TestRunner directory="$PROJECT_DIR$" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -546,6 +291,14 @@
       <option name="saveOutputToFile" value="false" />
       <option name="showConsoleOnStdErr" value="false" />
       <option name="showConsoleOnStdOut" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
       <method />
     </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
@@ -589,23 +342,23 @@
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32976446" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26312578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26617828" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32976446" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -624,9 +377,9 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24969475" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.26312578" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -658,28 +411,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_29_031048_create_candidates_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="690">
-          <folding />
-        </state>
+        <state line="19" column="34" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="690" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="6" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3015">
-          <folding />
-        </state>
+        <state line="13" column="6" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3015" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="57" selection-start="2535" selection-end="2535" vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1125">
-          <folding>
-            <element signature="tag#head#0;tag#html#0" expanded="true" />
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="true" />
-            <element signature="tag#button#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="66" column="57" selection-start="2535" selection-end="2535" vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1125" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
@@ -710,28 +452,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_29_031048_create_candidates_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="690">
-          <folding />
-        </state>
+        <state line="19" column="34" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="690" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="6" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3015">
-          <folding />
-        </state>
+        <state line="13" column="6" selection-start="423" selection-end="423" vertical-scroll-proportion="0.0" vertical-offset="195" max-vertical-offset="3015" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="57" selection-start="2535" selection-end="2535" vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1125">
-          <folding>
-            <element signature="tag#head#0;tag#html#0" expanded="true" />
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="true" />
-            <element signature="tag#button#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="66" column="57" selection-start="2535" selection-end="2535" vertical-scroll-proportion="0.0" vertical-offset="395" max-vertical-offset="1125" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
@@ -767,9 +498,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="51" selection-start="4403" selection-end="4403" vertical-scroll-proportion="0.0" vertical-offset="1438" max-vertical-offset="3015">
-          <folding />
-        </state>
+        <state line="123" column="51" selection-start="4403" selection-end="4403" vertical-scroll-proportion="0.0" vertical-offset="1438" max-vertical-offset="3015" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_29_024346_create_users_table.php">
@@ -784,9 +513,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_29_031048_create_candidates_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="79" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="675">
-          <folding />
-        </state>
+        <state line="23" column="79" selection-start="676" selection-end="676" vertical-scroll-proportion="0.0" vertical-offset="345" max-vertical-offset="675" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_29_025930_create_categories_table.php">
@@ -806,101 +533,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/migrations/2014_06_29_031048_create_candidates_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="34" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="690">
-          <folding />
-        </state>
+        <state line="19" column="34" selection-start="434" selection-end="434" vertical-scroll-proportion="0.0" vertical-offset="285" max-vertical-offset="690" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/database.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="43" selection-start="1897" selection-end="1897" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1950">
-          <folding />
-        </state>
+        <state line="61" column="43" selection-start="1897" selection-end="1897" vertical-scroll-proportion="0.0" vertical-offset="660" max-vertical-offset="1950" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/seeds/CategoryTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="29" selection-start="35" selection-end="35" vertical-scroll-proportion="0.026132405" vertical-offset="0" max-vertical-offset="574">
-          <folding>
-            <element signature="n#run#0;n#CategoryTableSeeder#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
+        <state line="1" column="29" selection-start="35" selection-end="35" vertical-scroll-proportion="0.026132405" vertical-offset="0" max-vertical-offset="574" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/composer/autoload_psr4.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="598" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Facade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="915" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vendor/laravel/framework/src/Illuminate/Support/Facades/Route.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="10" selection-start="204" selection-end="204" vertical-scroll-proportion="0.31358886" vertical-offset="0" max-vertical-offset="574">
-          <folding>
-            <element signature="e#45#87#0" expanded="false" />
-            <element signature="e#119#196#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="12" column="10" selection-start="204" selection-end="204" vertical-scroll-proportion="0.31358886" vertical-offset="0" max-vertical-offset="574" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/database/seeds/CandidateTableSeeder.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="24" selection-start="332" selection-end="336" vertical-scroll-proportion="-10.541667" vertical-offset="2" max-vertical-offset="630">
-          <folding>
-            <element signature="e#49#76#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="17" column="24" selection-start="332" selection-end="336" vertical-scroll-proportion="-10.541667" vertical-offset="2" max-vertical-offset="630" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="14" selection-start="1598" selection-end="1598" vertical-scroll-proportion="-26.25" vertical-offset="0" max-vertical-offset="1005">
-          <folding>
-            <element signature="tag#head#0;tag#html#0" expanded="true" />
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="true" />
-            <element signature="tag#button#0;tag#div#0;tag#div#0;tag#div#0;tag#body#0;tag#html#0" expanded="true" />
-            <element signature="tag#footer#0;tag#body#0;tag#html#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="42" column="14" selection-start="1598" selection-end="1598" vertical-scroll-proportion="-26.25" vertical-offset="0" max-vertical-offset="1005" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="41" selection-start="263" selection-end="263" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="735">
-          <folding>
-            <element signature="n#!!block;n#require#0;n#!!top" expanded="true" />
-            <element signature="n#!!block;n#autoload#0;n#!!top" expanded="true" />
-            <element signature="n#!!block;n#psr-4#0;n#!!block;n#autoload#0;n#!!top" expanded="true" />
-            <element signature="e#412#541#0" expanded="true" />
-            <element signature="n#!!block;n#scripts#0;n#!!top" expanded="true" />
-            <element signature="e#582#646#0" expanded="true" />
-            <element signature="e#669#733#0" expanded="true" />
-            <element signature="e#764#799#0" expanded="true" />
-            <element signature="n#!!block;n#config#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state line="8" column="41" selection-start="263" selection-end="263" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="735" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/config/app.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="116" column="60" selection-start="4058" selection-end="4058" vertical-scroll-proportion="-13.916667" vertical-offset="1406" max-vertical-offset="3030">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HireMe/Repositories/CategoryRepo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="27" selection-start="166" selection-end="166" vertical-scroll-proportion="-5.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="116" column="60" selection-start="4058" selection-end="4058" vertical-scroll-proportion="-13.916667" vertical-offset="1406" max-vertical-offset="3030" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/HireMe/Entities/Candidate.php">
@@ -915,9 +593,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/lang/en/utils.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="155" selection-end="155" vertical-scroll-proportion="0.13605443" vertical-offset="0" max-vertical-offset="882">
-          <folding />
-        </state>
+        <state line="8" column="2" selection-start="155" selection-end="155" vertical-scroll-proportion="0.13605443" vertical-offset="0" max-vertical-offset="882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/HireMe/Entities/Category.php">
@@ -959,106 +635,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/HireMe/Repositories/CandidateRepo.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="2" selection-start="485" selection-end="485" vertical-scroll-proportion="0.32312927" vertical-offset="0" max-vertical-offset="882">
-          <folding>
-            <element signature="e#38#68#0" expanded="true" />
-            <element signature="e#143#206#0" expanded="true" />
-            <element signature="e#211#482#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/candidates/category.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="801" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255">
-          <folding>
-            <element signature="tag#div#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="801" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="255" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="0" selection-start="0" selection-end="1322" vertical-scroll-proportion="0.25510204" vertical-offset="0" max-vertical-offset="882">
-          <folding>
-            <element signature="tag#div#0" expanded="true" />
-            <element signature="tag#div#0;tag#div#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="42" column="0" selection-start="0" selection-end="1322" vertical-scroll-proportion="0.25510204" vertical-offset="0" max-vertical-offset="882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/candidates/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="5" selection-start="581" selection-end="581" vertical-scroll-proportion="0.25510204" vertical-offset="0" max-vertical-offset="882">
-          <folding>
-            <element signature="tag#div#0" expanded="true" />
-          </folding>
-        </state>
+        <state line="27" column="5" selection-start="581" selection-end="581" vertical-scroll-proportion="0.25510204" vertical-offset="0" max-vertical-offset="882" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="12" selection-start="731" selection-end="738" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="360">
+        <state line="25" column="12" selection-start="731" selection-end="738" vertical-scroll-proportion="0.0" vertical-offset="375" max-vertical-offset="495">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/HireMe/Entities/User.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="49" selection-start="673" selection-end="673" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="585">
+        <state line="28" column="49" selection-start="673" selection-end="673" vertical-scroll-proportion="0.71254355" vertical-offset="11" max-vertical-offset="585">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/sign-up.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="128" selection-start="1762" selection-end="1762" vertical-scroll-proportion="0.5296167" vertical-offset="206" max-vertical-offset="780">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HireMe/Repositories/CategoryRepo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="1" selection-start="175" selection-end="175" vertical-scroll-proportion="0.26132405" vertical-offset="0" max-vertical-offset="574">
           <folding>
-            <element signature="e#34#64#0" expanded="true" />
-            <element signature="e#313#383#0" expanded="true" />
-            <element signature="e#415#498#0" expanded="true" />
-            <element signature="e#628#740#0" expanded="true" />
+            <element signature="e#111#173#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HireMe/Repositories/CandidateRepo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="24" selection-start="123" selection-end="123" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="495">
+          <folding>
+            <element signature="e#169#232#0" expanded="true" />
+            <element signature="e#237#508#0" expanded="true" />
+            <element signature="e#514#637#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/HireMe/Managers/BaseManager.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="25" selection-start="769" selection-end="769" vertical-scroll-proportion="-21.875" vertical-offset="0" max-vertical-offset="795">
+        <state line="31" column="0" selection-start="599" selection-end="599" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="795">
           <folding>
             <element signature="e#228#383#0" expanded="true" />
-            <element signature="e#431#680#0" expanded="true" />
-            <element signature="e#885#922#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/users/sign-up.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="128" selection-start="1762" selection-end="1762" vertical-scroll-proportion="-21.25" vertical-offset="0" max-vertical-offset="780">
-          <folding>
-            <element signature="tag#div#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="tag#p#0;tag#div#0;tag#div#0;tag#div#0;tag#div#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/HireMe/Managers/RegisterManager.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="2" selection-start="469" selection-end="469" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="405">
-          <folding>
-            <element signature="e#174#464#0" expanded="true" />
+            <element signature="e#686#879#0" expanded="true" />
+            <element signature="e#885#951#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/UserController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="57" selection-start="291" selection-end="291" vertical-scroll-proportion="0.39198607" vertical-offset="0" max-vertical-offset="574">
+        <state line="21" column="50" selection-start="458" selection-end="470" vertical-scroll-proportion="-13.125" vertical-offset="0" max-vertical-offset="540">
           <folding>
             <element signature="e#8#33#0" expanded="true" />
+            <element signature="n#__construct#0;n#UserController#0;n#!!top" expanded="true" />
             <element signature="n#signUp#0;n#UserController#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/HireMe/Managers/RegisterManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="21" selection-start="243" selection-end="243" vertical-scroll-proportion="0.41811848" vertical-offset="0" max-vertical-offset="574">
+          <folding>
+            <element signature="e#6#95#0" expanded="true" />
           </folding>
         </state>
       </provider>

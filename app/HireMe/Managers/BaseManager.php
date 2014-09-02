@@ -47,7 +47,7 @@ abstract class BaseManager {
 
     public function  getErrors(){
 
-
+        return $this->errors;
     }
 
 } 

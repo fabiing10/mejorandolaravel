@@ -3,6 +3,7 @@
 namespace HireMe\Repositories;
 use HireMe\Entities\Candidate;
 use HireMe\Entities\Category;
+use HireMe\Entities\User;
 
 class CandidateRepo extends BaseRepo{
 
@@ -16,5 +17,12 @@ class CandidateRepo extends BaseRepo{
                 $q->orderBy('created_at', 'DESC');
             },
             'candidates.user'])->get();
+    }
+
+    public function newCandidate(){
+        $user = new User();
+        $user->type = 'candidate';
+        return $user;
+
     }
 } 
