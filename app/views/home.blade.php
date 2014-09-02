@@ -5,31 +5,38 @@
 <!-- Main jumbotron for a primary marketing message or call to action -->
 <div class="jumbotron">
     <div class="container">
-        <h1>Bienvenidos!</h1>
-        <p>This is a template for a simple marketing or informational website. It includes a large callout called a jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.</p>
-        <p><a class="btn btn-primary btn-lg" role="button">Learn more &raquo;</a></p>
+        <h1>Ultimos candidatos</h1>
+        @foreach($latest_candidates as $category)
+        <h2>{{ $category->name }}</h2>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Nombre</th>
+                    <th>Tipo de trabajo</th>
+                    <th>Descripcion</th>
+                    <th>Ver</th>
+                </tr>
+            </thead>
+            <tbody>
+            @foreach ($category->candidates as $candidate)
+            <tr>
+                <td>{{ $candidate->user->full_name }}</td>
+                <td>{{ $candidate->job_type_title }}</td>
+                <td>{{ $candidate->description }}</td>
+                <td>
+                    <a href="{{ route('candidate', [$candidate->slug, $candidate->id]) }}" class="btn btn-info">
+                        Ver
+                    </a>
+                </td>
+            </tr>
+            @endforeach
+            </tbody>
+        </table>
+        <p>
+            <a href="{{ route('category', [$category->slug, $category->id])}}">
+                Ver categoria
+            </a>
+        </p>
+        @endforeach
     </div>
-</div>
-
-<div class="container">
-    <!-- Example row of columns -->
-    <div class="row">
-        <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. </p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-            <h2>Heading</h2>
-            <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
-            <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
-        </div>
-    </div>
-
-    <hr>
 </div>

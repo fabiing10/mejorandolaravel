@@ -1,12 +1,11 @@
 <?php
 
 namespace HireMe\Repositories;
-
 use HireMe\Entities\Category;
 
-class CategoryRepo{
-	
-	public function find($id){
-		return Category::find($id);
-	}
+class CategoryRepo extends BaseRepo{
+
+    public function getModel(){
+        return new Category;
+    }
 }
